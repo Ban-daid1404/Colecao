@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao.AtividadeArray1", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao.Atividade.Array2", "Colecao.Atividade.Array2\Colecao.Atividade.Array2.csproj", "{C728AB7D-E5D9-4741-B6B8-74C668EB0F95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao.Atividade.Array3", "Colecao.Atividade.Array3\Colecao.Atividade.Array3.csproj", "{2CE5BB2C-5D4A-41F2-A02E-36EC088E9CAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{C728AB7D-E5D9-4741-B6B8-74C668EB0F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C728AB7D-E5D9-4741-B6B8-74C668EB0F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C728AB7D-E5D9-4741-B6B8-74C668EB0F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE5BB2C-5D4A-41F2-A02E-36EC088E9CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE5BB2C-5D4A-41F2-A02E-36EC088E9CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE5BB2C-5D4A-41F2-A02E-36EC088E9CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE5BB2C-5D4A-41F2-A02E-36EC088E9CAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
