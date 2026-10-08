@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao.Array", "Colecao.Array\Colecao.Array.csproj", "{C14E942D-E66C-4D23-A379-56BBF10F3BFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao.AtividadeArray1", "Colecao.AtividadeArray1\Colecao.AtividadeArray1.csproj", "{2E1B77C7-30A4-4E54-A618-1EB71AA07AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao.Atividade.Array2", "Colecao.Atividade.Array2\Colecao.Atividade.Array2.csproj", "{C728AB7D-E5D9-4741-B6B8-74C668EB0F95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C14E942D-E66C-4D23-A379-56BBF10F3BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14E942D-E66C-4D23-A379-56BBF10F3BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14E942D-E66C-4D23-A379-56BBF10F3BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14E942D-E66C-4D23-A379-56BBF10F3BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E1B77C7-30A4-4E54-A618-1EB71AA07AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1B77C7-30A4-4E54-A618-1EB71AA07AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1B77C7-30A4-4E54-A618-1EB71AA07AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1B77C7-30A4-4E54-A618-1EB71AA07AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C728AB7D-E5D9-4741-B6B8-74C668EB0F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C728AB7D-E5D9-4741-B6B8-74C668EB0F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C728AB7D-E5D9-4741-B6B8-74C668EB0F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C728AB7D-E5D9-4741-B6B8-74C668EB0F95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

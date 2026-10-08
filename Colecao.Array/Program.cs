@@ -1,0 +1,22 @@
+﻿// Coleção
+// Array - Uma variável capaz de armazenar mais de uma informação
+string [] nomeAlunas = new string[12];
+nomeAlunas[0] = "Tonani";
+nomeAlunas[1] = "Isadora";
+nomeAlunas[2] = "Jeny";
+nomeAlunas[3] = "Emily";
+nomeAlunas[4] = "Bruna";
+nomeAlunas[5] = "Isabela";
+nomeAlunas[6] = "Leticia";
+
+DateOnly[] aniversarioAlunas =
+[
+    new DateOnly(2008, 11, 5),
+    new DateOnly(2009, 3, 1),
+    new DateOnly(2009, 1, 27),
+    new DateOnly(2009, 9, 15),
+    new DateOnly(2006, 4, 4),
+    new DateOnly(2006, 11, 12),
+    new DateOnly(2005, 5, 4)
+];
+Console.ReadLine();
